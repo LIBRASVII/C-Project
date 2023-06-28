@@ -1,1 +1,1 @@
-#This project is for pratice and learning about C
+#This project is for practice and learning about C
